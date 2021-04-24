@@ -1,0 +1,1 @@
+tsx = typescript + jsx(xml no javascript).
